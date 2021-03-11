@@ -1,0 +1,41 @@
+*{
+  :border-box;
+
+
+
+}
+body{background-image: url(background.jpg);
+  background-size: cover;
+  ;
+}
+.container{background-color: rgba(0, 0, 0, 0.5);
+  width: 80%;
+  margin: 0 auto;
+}
+.logo-img{width: 300px;
+display: block;
+margin: auto;
+}
+.logo-text{color: rgba(	127,255,0);
+text-align:center;
+}
+
+
+.rettangolo{
+
+  width: 1000px;
+      height: 50px;
+      background: green;
+      margin:auto;
+
+
+}
+ .bottoni{margin: auto;
+   display: block;
+   text-align: center
+
+ }
+ .testo{
+   display: block;
+
+ }
